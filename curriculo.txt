@@ -1,10 +1,27 @@
+DATOS PERSONALES
+
 Nombre: John Tene
-Correo: johnladislao92@gmail.com
-Titulo:Ing Telecomunicaciones
-Actividad laboral: Responsable Tecnologico
-.
-.
-.
-.
-.
-. etc
+Correo electrónico: johnladislao92@gmail.com
+Título profesional: Ingeniero en Telecomunicaciones
+Actividad laboral: Responsable Tecnológico
+
+PERFIL PROFESIONAL
+
+Profesional en Telecomunicaciones con experiencia en gestión tecnológica, administración de infraestructura informática, redes, seguridad de la información, soporte técnico y gestión de servicios tecnológicos. Actualmente se desempeña como Responsable Tecnológico, participando en la planificación, implementación, mantenimiento y control de recursos y servicios tecnológicos de la organización.
+
+ÁREAS DE EXPERIENCIA
+
+Administración de infraestructura tecnológica.
+Gestión y mantenimiento de redes informáticas.
+Administración de servidores y servicios tecnológicos.
+Seguridad informática y protección de la información.
+Administración de firewalls, routers y equipos de red.
+Gestión de proveedores de servicios tecnológicos.
+Soporte técnico a usuarios y equipos informáticos.
+Gestión de activos tecnológicos.
+Elaboración de informes técnicos y documentación.
+Planificación y seguimiento de proyectos tecnológicos.
+Gestión de respaldos y almacenamiento de información.
+Cumplimiento de normativa y controles relacionados con tecnología.
+Administración y mantenimiento de sistemas de videovigilancia (CCTV).
+Gestión de continuidad y disponibilidad de servicios tecnológicos.
