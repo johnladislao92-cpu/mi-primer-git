@@ -1,0 +1,832 @@
+============================================================ 
+          AUDITORIA BASICA DE RED LOCAL                    
+============================================================ 
+Fecha: mar. 08/09/2026                                               
+Hora:  21:39:59,99                                               
+Equipo: DESKTOP-M7T7NPI                                     
+Usuario: ART-TIC                                        
+============================================================ 
+                                                            
+============================================================ 
+[1] INFORMACION DE RED LOCAL                               
+============================================================ 
+
+Configuraci¢n IP de Windows
+
+   Nombre de host. . . . . . . . . : DESKTOP-M7T7NPI
+   Sufijo DNS principal  . . . . . : 
+   Tipo de nodo. . . . . . . . . . : h¡brido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Sophos TAP Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-FF-75-67-6F-34
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : lan
+   Descripci¢n . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Direcci¢n f¡sica. . . . . . . . . . . . . : AC-E2-D3-7A-54-FE
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de Ethernet vEthernet (WSL):
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-15-5D-97-79-70
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::4e00:c2ff:17e2:6a55%58(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 172.31.144.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 973083997
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-30-7B-B6-FA-AC-E2-D3-7A-54-FE
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 0A-00-27-00-00-16
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::1efc:74d8:5bb8:7247%22(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 856293415
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-30-7B-B6-FA-AC-E2-D3-7A-54-FE
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Ethernet 5:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Android USB Ethernet/RNDIS
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 42-06-62-FC-F3-DC
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:430:b206:4465:7149:37a9:cea3:7f92(Preferido) 
+   Direcci¢n IPv6 temporal. . . . . . : 2800:430:b206:4465:a14f:101e:a883:56a0(Preferido) 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::9180:4ef1:348a:2141%5(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 10.175.73.117(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesi¢n obtenida. . . . . . . . . . . . : martes, 8 de septiembre de 2026 21:35:45
+   La concesi¢n expira . . . . . . . . . . . : martes, 8 de septiembre de 2026 22:35:45
+   Puerta de enlace predeterminada . . . . . : fe80::5c95:3aff:fefa:e90d%5
+                                       10.175.73.133
+   Servidor DHCP . . . . . . . . . . . . . . : 10.175.73.133
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 1061291618
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-30-7B-B6-FA-AC-E2-D3-7A-54-FE
+   Servidores DNS. . . . . . . . . . . . . . : 10.175.73.133
+                                       2800:430:b206:4465::f6
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : D6-6A-6A-CC-48-BB
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Direcci¢n f¡sica. . . . . . . . . . . . . : D4-6A-6A-CC-48-BB
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : D4-6A-6A-CC-48-BB
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::9763:2ed2:f22:3a9d%3(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.104(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesi¢n obtenida. . . . . . . . . . . . : martes, 8 de septiembre de 2026 21:35:48
+   La concesi¢n expira . . . . . . . . . . . : martes, 8 de septiembre de 2026 23:35:45
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.1.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 64252522
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-30-7B-B6-FA-AC-E2-D3-7A-54-FE
+   Servidores DNS. . . . . . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+ 
+------------------------------------------------------------ 
+RESUMEN DE CONFIGURACION IP                                
+------------------------------------------------------------ 
+IP local detectada: 172.31.144.1 
+Mascara de subred:  
+Puerta de enlace: fe80 
+ 
+Servidores DNS: 
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+   Servidores DNS. . . . . . . . . . . . . . : 10.175.73.133
+   Servidores DNS. . . . . . . . . . . . . . : 8.8.8.8
+Subred detectada: 172.31.144.0/24 
+ 
+============================================================ 
+[2] ESCANEO DE DISPOSITIVOS ACTIVOS                         
+============================================================ 
+Subred analizada: 172.31.144.0/24 
+ 
+[ACTIVO] 172.31.144.1 
+============================================================ 
+[3] TABLA ARP - IP Y MAC                               
+============================================================ 
+
+Interfaz: 192.168.1.104 --- 0x3
+  Direcci¢n de Internet          Direcci¢n f¡sica      Tipo
+  192.168.1.1           08-8a-f1-a5-8b-af     din mico  
+  192.168.1.255         ff-ff-ff-ff-ff-ff     est tico  
+  224.0.0.22            01-00-5e-00-00-16     est tico  
+  224.0.0.251           01-00-5e-00-00-fb     est tico  
+  224.0.0.252           01-00-5e-00-00-fc     est tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est tico  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     est tico  
+
+Interfaz: 10.175.73.117 --- 0x5
+  Direcci¢n de Internet          Direcci¢n f¡sica      Tipo
+  10.175.73.255         ff-ff-ff-ff-ff-ff     est tico  
+  224.0.0.22            01-00-5e-00-00-16     est tico  
+  224.0.0.251           01-00-5e-00-00-fb     est tico  
+  224.0.0.252           01-00-5e-00-00-fc     est tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est tico  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     est tico  
+
+Interfaz: 192.168.56.1 --- 0x16
+  Direcci¢n de Internet          Direcci¢n f¡sica      Tipo
+  192.168.56.255        ff-ff-ff-ff-ff-ff     est tico  
+  224.0.0.2             01-00-5e-00-00-02     est tico  
+  224.0.0.22            01-00-5e-00-00-16     est tico  
+  224.0.0.251           01-00-5e-00-00-fb     est tico  
+  224.0.0.252           01-00-5e-00-00-fc     est tico  
+  224.0.1.60            01-00-5e-00-01-3c     est tico  
+  239.255.102.18        01-00-5e-7f-66-12     est tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est tico  
+
+Interfaz: 172.31.144.1 --- 0x3a
+  Direcci¢n de Internet          Direcci¢n f¡sica      Tipo
+  172.31.149.228        00-15-5d-32-f2-22     din mico  
+  172.31.159.255        ff-ff-ff-ff-ff-ff     est tico  
+  224.0.0.22            01-00-5e-00-00-16     est tico  
+  224.0.0.251           01-00-5e-00-00-fb     est tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est tico  
+ 
+------------------------------------------------------------ 
+IP Y MAC DETECTADAS                                        
+------------------------------------------------------------ 
+Interfaz: 192.168.1.104 --- 0x3
+  192.168.1.1           08-8a-f1-a5-8b-af     din mico  
+  192.168.1.255         ff-ff-ff-ff-ff-ff     est tico  
+  224.0.0.22            01-00-5e-00-00-16     est tico  
+  224.0.0.251           01-00-5e-00-00-fb     est tico  
+  224.0.0.252           01-00-5e-00-00-fc     est tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est tico  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     est tico  
+Interfaz: 10.175.73.117 --- 0x5
+  10.175.73.255         ff-ff-ff-ff-ff-ff     est tico  
+  224.0.0.22            01-00-5e-00-00-16     est tico  
+  224.0.0.251           01-00-5e-00-00-fb     est tico  
+  224.0.0.252           01-00-5e-00-00-fc     est tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est tico  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     est tico  
+Interfaz: 192.168.56.1 --- 0x16
+  192.168.56.255        ff-ff-ff-ff-ff-ff     est tico  
+  224.0.0.2             01-00-5e-00-00-02     est tico  
+  224.0.0.22            01-00-5e-00-00-16     est tico  
+  224.0.0.251           01-00-5e-00-00-fb     est tico  
+  224.0.0.252           01-00-5e-00-00-fc     est tico  
+  224.0.1.60            01-00-5e-00-01-3c     est tico  
+  239.255.102.18        01-00-5e-7f-66-12     est tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est tico  
+Interfaz: 172.31.144.1 --- 0x3a
+  172.31.149.228        00-15-5d-32-f2-22     din mico  
+  172.31.159.255        ff-ff-ff-ff-ff-ff     est tico  
+  224.0.0.22            01-00-5e-00-00-16     est tico  
+  224.0.0.251           01-00-5e-00-00-fb     est tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est tico  
+============================================================ 
+[4] RECURSOS COMPARTIDOS                                   
+============================================================ 
+Recursos compartidos del equipo: 
+
+Nombre       Recurso                         Descripci¢n
+
+-------------------------------------------------------------------------------
+C$           C:\                             Recurso predeterminado            
+IPC$                                         IPC remota                        
+ADMIN$       C:\Windows                      Admin remota                      
+Se ha completado el comando correctamente.
+
+ 
+------------------------------------------------------------ 
+EQUIPOS VISIBLES EN LA RED                                 
+------------------------------------------------------------ 
+Error de sistema 6118.
+
+La lista de servidores de este grupo de trabajo no se encuentra disponible en este momento.
+
+============================================================ 
+[5] CONEXIONES TCP ACTIVAS                                  
+============================================================ 
+
+Conexiones activas
+
+  Proto  Direcci¢n local          Direcci¢n remota        Estado           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1216
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       3952
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5432           0.0.0.0:0              LISTENING       5192
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       2004
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       648
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       864
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1544
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2156
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3652
+  TCP    0.0.0.0:51842          0.0.0.0:0              LISTENING       940
+  TCP    10.175.73.117:139      0.0.0.0:0              LISTENING       4
+  TCP    10.175.73.117:62880    10.175.73.133:53       SYN_SENT        2748
+  TCP    127.0.0.1:4502         0.0.0.0:0              LISTENING       7596
+  TCP    127.0.0.1:5354         0.0.0.0:0              LISTENING       932
+  TCP    127.0.0.1:55042        127.0.0.1:55043        ESTABLISHED     9008
+  TCP    127.0.0.1:55043        127.0.0.1:55042        ESTABLISHED     9008
+  TCP    127.0.0.1:56119        127.0.0.1:56120        ESTABLISHED     7596
+  TCP    127.0.0.1:56120        127.0.0.1:56119        ESTABLISHED     7596
+  TCP    127.0.0.1:60110        0.0.0.0:0              LISTENING       4144
+  TCP    127.0.0.1:60110        127.0.0.1:61025        ESTABLISHED     4144
+  TCP    127.0.0.1:61025        127.0.0.1:60110        ESTABLISHED     5560
+  TCP    127.0.0.1:61494        127.0.0.1:61495        ESTABLISHED     932
+  TCP    127.0.0.1:61495        127.0.0.1:61494        ESTABLISHED     932
+  TCP    127.0.0.1:61529        127.0.0.1:61530        ESTABLISHED     932
+  TCP    127.0.0.1:61530        127.0.0.1:61529        ESTABLISHED     932
+  TCP    127.0.0.1:65426        0.0.0.0:0              LISTENING       10420
+  TCP    172.31.144.1:139       0.0.0.0:0              LISTENING       4
+  TCP    192.168.1.104:139      0.0.0.0:0              LISTENING       4
+  TCP    192.168.1.104:50776    100.28.153.195:443     ESTABLISHED     5096
+  TCP    192.168.1.104:50778    170.114.52.5:443       ESTABLISHED     932
+  TCP    192.168.1.104:51692    134.224.241.30:443     CLOSE_WAIT      932
+  TCP    192.168.1.104:51693    170.114.52.83:443      LAST_ACK        932
+  TCP    192.168.1.104:51694    170.114.2.83:443       ESTABLISHED     932
+  TCP    192.168.1.104:51695    140.82.112.25:443      ESTABLISHED     14824
+  TCP    192.168.1.104:51696    140.82.112.25:443      ESTABLISHED     4880
+  TCP    192.168.1.104:51697    57.144.115.32:5222     ESTABLISHED     4880
+  TCP    192.168.1.104:51700    134.224.4.246:443      LAST_ACK        932
+  TCP    192.168.1.104:51701    134.224.4.246:443      LAST_ACK        932
+  TCP    192.168.1.104:56445    134.224.4.137:443      ESTABLISHED     932
+  TCP    192.168.1.104:58444    134.224.175.148:443    ESTABLISHED     9008
+  TCP    192.168.1.104:58445    134.224.175.148:443    ESTABLISHED     9008
+  TCP    192.168.1.104:58677    57.144.115.32:443      TIME_WAIT       0
+  TCP    192.168.1.104:58683    172.172.255.217:443    ESTABLISHED     4388
+  TCP    192.168.1.104:59340    172.64.148.235:443     ESTABLISHED     4880
+  TCP    192.168.1.104:59342    104.18.32.47:443       ESTABLISHED     4880
+  TCP    192.168.1.104:61620    199.232.210.172:443    ESTABLISHED     10512
+  TCP    192.168.1.104:62501    20.184.175.2:443       ESTABLISHED     14636
+  TCP    192.168.1.104:62665    172.64.148.235:443     ESTABLISHED     4880
+  TCP    192.168.1.104:64487    170.114.52.3:443       ESTABLISHED     9008
+  TCP    192.168.1.104:64488    170.114.2.83:443       ESTABLISHED     9008
+  TCP    192.168.1.104:65528    172.172.255.217:443    ESTABLISHED     4388
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING       4
+ 
+============================================================ 
+[6] PUERTOS UDP                                             
+============================================================ 
+
+Conexiones activas
+
+  Proto  Direcci¢n local          Direcci¢n remota        Estado           PID
+  UDP    0.0.0.0:53             *:*                                    4832
+  UDP    0.0.0.0:123            *:*                                    4812
+  UDP    0.0.0.0:3702           *:*                                    14908
+  UDP    0.0.0.0:3702           *:*                                    8140
+  UDP    0.0.0.0:3702           *:*                                    8140
+  UDP    0.0.0.0:3702           *:*                                    14908
+  UDP    0.0.0.0:5050           *:*                                    3952
+  UDP    0.0.0.0:5353           *:*                                    8548
+  UDP    0.0.0.0:5353           *:*                                    8548
+  UDP    0.0.0.0:5353           *:*                                    8548
+  UDP    0.0.0.0:5353           *:*                                    8548
+  UDP    0.0.0.0:5353           *:*                                    8548
+  UDP    0.0.0.0:5353           *:*                                    4880
+  UDP    0.0.0.0:5353           *:*                                    4880
+  UDP    0.0.0.0:5353           *:*                                    2748
+  UDP    0.0.0.0:5353           *:*                                    4880
+  UDP    0.0.0.0:5353           *:*                                    8548
+  UDP    0.0.0.0:5353           *:*                                    8548
+  UDP    0.0.0.0:5353           *:*                                    8548
+  UDP    0.0.0.0:5353           *:*                                    4880
+  UDP    0.0.0.0:5353           *:*                                    4880
+  UDP    0.0.0.0:5353           *:*                                    4880
+  UDP    0.0.0.0:5355           *:*                                    2748
+  UDP    0.0.0.0:49349          *:*                                    9008
+  UDP    0.0.0.0:49350          *:*                                    9008
+  UDP    0.0.0.0:50627          *:*                                    4880
+  UDP    0.0.0.0:50767          *:*                                    14908
+  UDP    0.0.0.0:51837          *:*                                    7596
+  UDP    0.0.0.0:51838          *:*                                    7596
+  UDP    0.0.0.0:52080          *:*                                    4880
+  UDP    0.0.0.0:53269          *:*                                    4832
+  UDP    0.0.0.0:53270          *:*                                    4832
+  UDP    0.0.0.0:53951          *:*                                    8140
+  UDP    0.0.0.0:54866          *:*                                    9008
+  UDP    0.0.0.0:58180          *:*                                    4880
+  UDP    0.0.0.0:60081          *:*                                    2748
+  UDP    0.0.0.0:61986          *:*                                    2748
+  UDP    0.0.0.0:63247          *:*                                    932
+  UDP    0.0.0.0:64576          *:*                                    9008
+  UDP    0.0.0.0:64577          *:*                                    9008
+  UDP    0.0.0.0:64963          *:*                                    2748
+  UDP    10.175.73.117:137      *:*                                    4
+  UDP    10.175.73.117:138      *:*                                    4
+  UDP    10.175.73.117:1900     *:*                                    12340
+  UDP    10.175.73.117:2177     *:*                                    13280
+  UDP    10.175.73.117:5353     *:*                                    932
+  UDP    10.175.73.117:55245    *:*                                    4880
+  UDP    10.175.73.117:65014    *:*                                    12340
+  UDP    127.0.0.1:1900         *:*                                    12340
+  UDP    127.0.0.1:64410        *:*                                    4232
+  UDP    127.0.0.1:65016        *:*                                    12340
+  UDP    172.31.144.1:137       *:*                                    4
+  UDP    172.31.144.1:138       *:*                                    4
+  UDP    172.31.144.1:1900      *:*                                    12340
+  UDP    172.31.144.1:2177      *:*                                    13280
+  UDP    172.31.144.1:50129     *:*                                    4880
+  UDP    172.31.144.1:55246     *:*                                    4880
+  UDP    172.31.144.1:65012     *:*                                    12340
+  UDP    192.168.1.104:137      *:*                                    4
+  UDP    192.168.1.104:138      *:*                                    4
+  UDP    192.168.1.104:1900     *:*                                    12340
+  UDP    192.168.1.104:2177     *:*                                    13280
+  UDP    192.168.1.104:5353     *:*                                    932
+  UDP    192.168.1.104:57587    *:*                                    4880
+  UDP    192.168.1.104:65015    *:*                                    12340
+  UDP    192.168.56.1:137       *:*                                    4
+  UDP    192.168.56.1:138       *:*                                    4
+  UDP    192.168.56.1:1900      *:*                                    12340
+  UDP    192.168.56.1:2177      *:*                                    13280
+  UDP    192.168.56.1:5353      *:*                                    932
+  UDP    192.168.56.1:55247     *:*                                    4880
+  UDP    192.168.56.1:65013     *:*                                    12340
+ 
+============================================================ 
+[7] PROCESOS EN EJECUCION                                   
+============================================================ 
+
+Nombre de imagen               PID Nombre de sesi¢n N£m. de ses Uso de memor
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         8 KB
+System                           4 Services                   0     2.312 KB
+Secure System                   56 Services                   0    30.656 KB
+Registry                       108 Services                   0    77.636 KB
+smss.exe                       516 Services                   0     1.132 KB
+csrss.exe                      780 Services                   0     5.348 KB
+wininit.exe                    864 Services                   0     5.588 KB
+services.exe                   940 Services                   0    11.468 KB
+LsaIso.exe                       8 Services                   0     2.064 KB
+lsass.exe                      648 Services                   0    19.572 KB
+svchost.exe                   1060 Services                   0    33.192 KB
+fontdrvhost.exe               1072 Services                   0     2.072 KB
+WUDFHost.exe                  1172 Services                   0    13.828 KB
+svchost.exe                   1216 Services                   0    16.248 KB
+svchost.exe                   1272 Services                   0     9.464 KB
+svchost.exe                   1412 Services                   0     9.548 KB
+IntelCpHDCPSvc.exe            1448 Services                   0     5.124 KB
+svchost.exe                   1460 Services                   0     6.784 KB
+svchost.exe                   1528 Services                   0     6.412 KB
+svchost.exe                   1544 Services                   0    14.564 KB
+IntelCpHeciSvc.exe            1668 Services                   0     5.368 KB
+svchost.exe                   1752 Services                   0     7.240 KB
+svchost.exe                   1764 Services                   0     7.528 KB
+svchost.exe                   1892 Services                   0     8.616 KB
+svchost.exe                   1936 Services                   0    11.036 KB
+igfxCUIService.exe            1944 Services                   0     7.832 KB
+svchost.exe                   2008 Services                   0     3.548 KB
+svchost.exe                   1336 Services                   0     6.628 KB
+svchost.exe                   1808 Services                   0    10.988 KB
+svchost.exe                   2116 Services                   0    14.784 KB
+svchost.exe                   2132 Services                   0     4.416 KB
+svchost.exe                   2156 Services                   0    14.272 KB
+svchost.exe                   2256 Services                   0    12.948 KB
+svchost.exe                   2348 Services                   0    13.020 KB
+svchost.exe                   2372 Services                   0     5.448 KB
+SynTPEnhService.exe           2408 Services                   0     8.060 KB
+svchost.exe                   2436 Services                   0     9.864 KB
+svchost.exe                   2480 Services                   0    10.272 KB
+svchost.exe                   2608 Services                   0   144.760 KB
+svchost.exe                   2620 Services                   0     4.272 KB
+Memory Compression            2660 Services                   0   946.268 KB
+svchost.exe                   2680 Services                   0     5.716 KB
+svchost.exe                   2692 Services                   0     6.296 KB
+svchost.exe                   2924 Services                   0    13.116 KB
+RtkAudioService64.exe         2996 Services                   0     6.088 KB
+svchost.exe                   3040 Services                   0    11.932 KB
+svchost.exe                   1268 Services                   0     6.792 KB
+svchost.exe                   2748 Services                   0     8.460 KB
+svchost.exe                   3116 Services                   0     8.788 KB
+svchost.exe                   3124 Services                   0     9.896 KB
+svchost.exe                   3296 Services                   0    17.296 KB
+svchost.exe                   3376 Services                   0    12.664 KB
+spoolsv.exe                   3652 Services                   0    14.280 KB
+svchost.exe                   3700 Services                   0    24.100 KB
+svchost.exe                   3784 Services                   0     5.684 KB
+svchost.exe                   3808 Services                   0     6.388 KB
+svchost.exe                   3856 Services                   0    38.168 KB
+svchost.exe                   3864 Services                   0    12.428 KB
+OfficeClickToRun.exe          3872 Services                   0    37.648 KB
+svchost.exe                   3884 Services                   0    29.308 KB
+escsvc64.exe                  3896 Services                   0     4.228 KB
+OneApp.IGCC.WinService.ex     3940 Services                   0    31.440 KB
+jhi_service.exe               3992 Services                   0     4.104 KB
+svchost.exe                   4012 Services                   0    17.264 KB
+LMS.exe                       4020 Services                   0     9.236 KB
+pg_ctl.exe                    3452 Services                   0     3.908 KB
+RstMwService.exe              3720 Services                   0     4.996 KB
+svchost.exe                   3060 Services                   0     4.420 KB
+RtkBtManServ.exe              4104 Services                   0     3.796 KB
+scvpn.exe                     4144 Services                   0    13.868 KB
+sqlwriter.exe                 4192 Services                   0     6.316 KB
+svchost.exe                   4232 Services                   0     9.984 KB
+svchost.exe                   4248 Services                   0     6.800 KB
+svchost.exe                   4316 Services                   0     4.544 KB
+svchost.exe                   4336 Services                   0     3.652 KB
+WMIRegistrationService.ex     4372 Services                   0    11.992 KB
+svchost.exe                   4388 Services                   0    21.868 KB
+esif_uf.exe                   4400 Services                   0     3.988 KB
+wslservice.exe                4444 Services                   0    20.204 KB
+svchost.exe                   4460 Services                   0     7.716 KB
+MpDefenderCoreService.exe     4556 Services                   0    17.108 KB
+MsMpEng.exe                   4596 Services                   0   109.540 KB
+svchost.exe                   4732 Services                   0    11.024 KB
+svchost.exe                   4832 Services                   0     6.432 KB
+svchost.exe                   4844 Services                   0     5.556 KB
+postgres.exe                  5192 Services                   0    22.056 KB
+conhost.exe                   5208 Services                   0     5.040 KB
+postgres.exe                  5704 Services                   0     7.276 KB
+postgres.exe                  5760 Services                   0     7.360 KB
+postgres.exe                  5768 Services                   0     7.440 KB
+postgres.exe                  5776 Services                   0     7.360 KB
+postgres.exe                  5788 Services                   0    10.152 KB
+postgres.exe                  5796 Services                   0     8.692 KB
+SearchIndexer.exe             5976 Services                   0    45.844 KB
+svchost.exe                   6072 Services                   0     7.412 KB
+postgres.exe                  6116 Services                   0    11.604 KB
+postgres.exe                  6124 Services                   0     8.136 KB
+postgres.exe                  6132 Services                   0     8.004 KB
+dllhost.exe                   6984 Services                   0     9.824 KB
+AggregatorHost.exe            6632 Services                   0     8.656 KB
+NisSrv.exe                   10140 Services                   0     9.856 KB
+svchost.exe                   3952 Services                   0    17.804 KB
+svchost.exe                   2004 Services                   0    16.664 KB
+svchost.exe                   3628 Services                   0    17.380 KB
+svchost.exe                   6084 Services                   0    12.612 KB
+svchost.exe                   2068 Services                   0    19.632 KB
+svchost.exe                   4624 Services                   0    21.248 KB
+svchost.exe                   4812 Services                   0     7.572 KB
+PresentationFontCache.exe     6508 Services                   0    17.764 KB
+svchost.exe                  10560 Services                   0     9.856 KB
+svchost.exe                    988 Services                   0    10.252 KB
+SecurityHealthService.exe    11428 Services                   0    16.080 KB
+svchost.exe                  11624 Services                   0     6.164 KB
+svchost.exe                  11204 Services                   0    12.384 KB
+svchost.exe                   2544 Services                   0     8.268 KB
+svchost.exe                  13280 Services                   0     7.952 KB
+vmcompute.exe                 4072 Services                   0    10.176 KB
+svchost.exe                   9624 Services                   0    11.360 KB
+csrss.exe                     3592 Console                    2     6.428 KB
+winlogon.exe                 11468 Console                    2    10.280 KB
+fontdrvhost.exe               9596 Console                    2     6.228 KB
+dwm.exe                       5812 Console                    2   118.672 KB
+charon-svc.exe                7596 Services                   0     9.984 KB
+svchost.exe                  15404 Services                   0     5.552 KB
+openvpnserv.exe              15780 Services                   0     5.864 KB
+wlanext.exe                  12840 Services                   0     8.156 KB
+conhost.exe                  12904 Services                   0     5.180 KB
+SynTPEnh.exe                  7268 Console                    2    20.196 KB
+ctfmon.exe                    6976 Console                    2    22.092 KB
+sihost.exe                    6928 Console                    2    28.732 KB
+svchost.exe                  11120 Console                    2    21.132 KB
+igfxEM.exe                    7320 Console                    2    13.348 KB
+svchost.exe                  11512 Console                    2    39.284 KB
+taskhostw.exe                 3180 Console                    2    17.852 KB
+explorer.exe                  3236 Console                    2   191.888 KB
+svchost.exe                  15648 Console                    2    21.908 KB
+StartMenuExperienceHost.e    11172 Console                    2    66.152 KB
+RuntimeBroker.exe            14648 Console                    2    29.564 KB
+SearchApp.exe                 2772 Console                    2   112.716 KB
+RuntimeBroker.exe            11640 Console                    2    48.996 KB
+TextInputHost.exe            12488 Console                    2    45.200 KB
+TabTip.exe                    1132 Console                    2    15.700 KB
+RuntimeBroker.exe             4752 Console                    2    28.460 KB
+SecurityHealthSystray.exe     1328 Console                    2     9.088 KB
+RtkNGUI64.exe                13776 Console                    2    13.284 KB
+scgui.exe                     5560 Console                    2    42.868 KB
+msedge.exe                    8548 Console                    2   306.912 KB
+msedge.exe                   13652 Console                    2     9.872 KB
+msedge.exe                    4880 Console                    2    67.872 KB
+msedge.exe                   12360 Console                    2   282.192 KB
+msedge.exe                    7188 Console                    2    20.772 KB
+msedge.exe                   12468 Console                    2    89.984 KB
+msedge.exe                   10720 Console                    2    49.888 KB
+dllhost.exe                   8084 Console                    2    12.884 KB
+msedge.exe                    7360 Console                    2    22.084 KB
+msedge.exe                   10280 Console                    2    24.700 KB
+svchost.exe                   7528 Console                    2    12.388 KB
+msedge.exe                   11912 Console                    2    14.288 KB
+msedge.exe                   10024 Console                    2     9.816 KB
+CompPkgSrv.exe                7532 Console                    2     8.548 KB
+msedge.exe                    6860 Console                    2     7.168 KB
+msedge.exe                   15660 Console                    2    66.352 KB
+Docker Desktop.exe           12080 Console                    2     9.628 KB
+com.docker.backend.exe       15584 Console                    2    59.876 KB
+conhost.exe                   1692 Console                    2     6.828 KB
+com.docker.backend.exe        5096 Console                    2   127.236 KB
+com.docker.build.exe          3980 Console                    2    27.952 KB
+Docker Desktop.exe            7404 Console                    2   100.908 KB
+wsl.exe                      15956 Console                    2     5.932 KB
+wsl.exe                      11056 Console                    2     5.932 KB
+vmwp.exe                     14488 Services                   0    15.660 KB
+wsl.exe                      11516 Console                    2     8.564 KB
+wsl.exe                       7476 Console                    2     8.768 KB
+vmmem                        11760 Services                   0   363.180 KB
+dllhost.exe                  15160 Console                    2     7.836 KB
+dllhost.exe                   3200 Console                    2     8.132 KB
+wslrelay.exe                   976 Console                    2     6.392 KB
+Docker Desktop.exe           15200 Console                    2    81.884 KB
+wslhost.exe                  15932 Console                    2     8.236 KB
+Docker Desktop.exe            6332 Console                    2    45.788 KB
+conhost.exe                   5944 Console                    2     7.116 KB
+wslhost.exe                   9752 Console                    2     7.984 KB
+wslhost.exe                   6692 Console                    2     7.868 KB
+wslhost.exe                  14600 Console                    2     7.884 KB
+conhost.exe                  15996 Console                    2     7.144 KB
+conhost.exe                  13068 Console                    2     7.152 KB
+conhost.exe                   8364 Console                    2     7.152 KB
+msrdc.exe                    15712 Console                    2    34.496 KB
+audiodg.exe                   9560 Services                   0    23.380 KB
+Docker Desktop.exe           15816 Console                    2   132.520 KB
+docker-agent.exe              7308 Console                    2    51.692 KB
+SearchApp.exe                 5964 Console                    2    62.908 KB
+msedgewebview2.exe            8564 Console                    2    83.076 KB
+msedgewebview2.exe           10444 Console                    2    13.896 KB
+msedgewebview2.exe           10892 Console                    2    33.720 KB
+msedgewebview2.exe            1568 Console                    2    44.072 KB
+msedgewebview2.exe            9772 Console                    2    17.632 KB
+msedgewebview2.exe           14112 Console                    2    62.612 KB
+UserOOBEBroker.exe           12452 Console                    2     9.364 KB
+Zoom.exe                       932 Console                    2   139.140 KB
+msedgewebview2.exe            5008 Console                    2   106.924 KB
+msedgewebview2.exe            6624 Console                    2     9.228 KB
+msedgewebview2.exe            7892 Console                    2    38.064 KB
+msedgewebview2.exe            7920 Console                    2    69.920 KB
+msedgewebview2.exe            5532 Console                    2    18.744 KB
+msedgewebview2.exe           13520 Console                    2    54.000 KB
+msedgewebview2.exe           15968 Console                    2   107.960 KB
+msedgewebview2.exe           13828 Console                    2    56.740 KB
+ShellExperienceHost.exe       6108 Console                    2    66.892 KB
+msedge.exe                    6464 Console                    2   714.640 KB
+msedge.exe                   13208 Console                    2     9.400 KB
+msedge.exe                    2856 Console                    2    21.712 KB
+svchost.exe                  12340 Services                   0     9.492 KB
+RuntimeBroker.exe             9860 Console                    2    30.044 KB
+msedge.exe                    2280 Console                    2    32.888 KB
+msedge.exe                    3164 Console                    2    15.844 KB
+msedge.exe                    9348 Console                    2    17.252 KB
+msedge.exe                    7112 Console                    2     6.564 KB
+msedge.exe                   14388 Console                    2    15.748 KB
+SystemSettings.exe           12940 Console                    2    44.560 KB
+ApplicationFrameHost.exe     10212 Console                    2    27.824 KB
+imsctadn.exe                  1856 Console                    2     2.128 KB
+cmd.exe                       1048 Console                    2     4.068 KB
+conhost.exe                  13448 Console                    2    12.088 KB
+GitHubDesktop.exe            11364 Console                    2   100.056 KB
+GitHubDesktop.exe             9608 Console                    2    83.144 KB
+GitHubDesktop.exe            14824 Console                    2    44.584 KB
+GitHubDesktop.exe            10420 Console                    2   112.164 KB
+msedge.exe                   11196 Console                    2     9.144 KB
+msedge.exe                   14796 Console                    2     7.212 KB
+msedge.exe                   15028 Console                    2   199.816 KB
+msedge.exe                    9536 Console                    2    11.648 KB
+DriverBooster.exe             3924 Console                    2     4.064 KB
+msedge.exe                   15572 Console                    2    27.452 KB
+svchost.exe                  10436 Services                   0     7.192 KB
+svchost.exe                   8140 Services                   0    10.080 KB
+Zoom.exe                      9008 Console                    2   271.488 KB
+taskhostw.exe                 8816 Console                    2     8.100 KB
+CptHost.exe                   8520 Console                    2    15.796 KB
+svchost.exe                  12060 Services                   0     8.688 KB
+dasHost.exe                  14908 Services                   0    14.480 KB
+msedge.exe                    6696 Console                    2     5.092 KB
+git-bash.exe                  8024 Console                    2     5.044 KB
+mintty.exe                    1868 Console                    2    19.248 KB
+conhost.exe                   1160 Console                    2     7.812 KB
+bash.exe                     14836 Console                    2     9.064 KB
+notepad.exe                  12908 Console                    2    18.060 KB
+BackgroundDownload.exe       14636 Console                    2    14.868 KB
+WmiPrvSE.exe                 15072 Services                   0    10.632 KB
+svchost.exe                  10512 Services                   0    27.076 KB
+BackgroundDownload.exe       14412 Console                    2    23.620 KB
+msedge.exe                   12932 Console                    2    65.448 KB
+msedge.exe                    7776 Console                    2   366.676 KB
+msedge.exe                    1224 Console                    2    33.408 KB
+svchost.exe                   3332 Services                   0     7.596 KB
+mscopilot_proxy.exe          12676 Console                    2    19.188 KB
+smartscreen.exe              10216 Console                    2    23.560 KB
+SearchProtocolHost.exe       14480 Console                    2     8.148 KB
+cmd.exe                       7864 Console                    2     5.292 KB
+conhost.exe                  17316 Console                    2    19.284 KB
+notepad.exe                  11924 Console                    2    18.912 KB
+SearchFilterHost.exe         11440 Services                   0     7.644 KB
+tasklist.exe                 16388 Console                    2     9.420 KB
+WmiPrvSE.exe                 16400 Services                   0     9.884 KB
+ 
+============================================================ 
+[8] PUERTOS TCP EN ESCUCHA                                 
+============================================================ 
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1216
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       3952
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5432           0.0.0.0:0              LISTENING       5192
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       2004
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       648
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       864
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1544
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2156
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3652
+  TCP    0.0.0.0:51842          0.0.0.0:0              LISTENING       940
+  TCP    10.175.73.117:139      0.0.0.0:0              LISTENING       4
+  TCP    127.0.0.1:4502         0.0.0.0:0              LISTENING       7596
+  TCP    127.0.0.1:5354         0.0.0.0:0              LISTENING       932
+  TCP    127.0.0.1:60110        0.0.0.0:0              LISTENING       4144
+  TCP    127.0.0.1:65426        0.0.0.0:0              LISTENING       10420
+  TCP    172.31.144.1:139       0.0.0.0:0              LISTENING       4
+  TCP    192.168.1.104:139      0.0.0.0:0              LISTENING       4
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING       4
+ 
+============================================================ 
+[9] TABLA DE RUTAS                                         
+============================================================ 
+===========================================================================
+ILista de interfaces
+ 12...00 ff 75 67 6f 34 ......Sophos TAP Adapter
+ 15...ac e2 d3 7a 54 fe ......Realtek PCIe GbE Family Controller
+ 58...00 15 5d 97 79 70 ......Hyper-V Virtual Ethernet Adapter
+ 22...0a 00 27 00 00 16 ......VirtualBox Host-Only Ethernet Adapter
+  5...42 06 62 fc f3 dc ......Android USB Ethernet/RNDIS
+ 10...d6 6a 6a cc 48 bb ......Microsoft Wi-Fi Direct Virtual Adapter
+ 24...d4 6a 6a cc 48 bb ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  3...d4 6a 6a cc 48 bb ......Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Tabla de enrutamiento
+===========================================================================
+Rutas activas:
+Destino de red        M scara de red   Puerta de enlace   Interfaz  M‚trica
+          0.0.0.0          0.0.0.0    10.175.73.133    10.175.73.117     25
+          0.0.0.0          0.0.0.0      192.168.1.1    192.168.1.104     50
+      10.175.73.0    255.255.255.0      En v¡nculo     10.175.73.117    281
+    10.175.73.117  255.255.255.255      En v¡nculo     10.175.73.117    281
+    10.175.73.255  255.255.255.255      En v¡nculo     10.175.73.117    281
+        127.0.0.0        255.0.0.0      En v¡nculo         127.0.0.1    331
+        127.0.0.1  255.255.255.255      En v¡nculo         127.0.0.1    331
+  127.255.255.255  255.255.255.255      En v¡nculo         127.0.0.1    331
+     172.31.144.0    255.255.240.0      En v¡nculo      172.31.144.1    271
+     172.31.144.1  255.255.255.255      En v¡nculo      172.31.144.1    271
+   172.31.159.255  255.255.255.255      En v¡nculo      172.31.144.1    271
+      192.168.1.0    255.255.255.0      En v¡nculo     192.168.1.104    306
+    192.168.1.104  255.255.255.255      En v¡nculo     192.168.1.104    306
+    192.168.1.255  255.255.255.255      En v¡nculo     192.168.1.104    306
+     192.168.56.0    255.255.255.0      En v¡nculo      192.168.56.1    281
+     192.168.56.1  255.255.255.255      En v¡nculo      192.168.56.1    281
+   192.168.56.255  255.255.255.255      En v¡nculo      192.168.56.1    281
+        224.0.0.0        240.0.0.0      En v¡nculo         127.0.0.1    331
+        224.0.0.0        240.0.0.0      En v¡nculo      192.168.56.1    281
+        224.0.0.0        240.0.0.0      En v¡nculo     192.168.1.104    306
+        224.0.0.0        240.0.0.0      En v¡nculo     10.175.73.117    281
+        224.0.0.0        240.0.0.0      En v¡nculo      172.31.144.1    271
+  255.255.255.255  255.255.255.255      En v¡nculo         127.0.0.1    331
+  255.255.255.255  255.255.255.255      En v¡nculo      192.168.56.1    281
+  255.255.255.255  255.255.255.255      En v¡nculo     192.168.1.104    306
+  255.255.255.255  255.255.255.255      En v¡nculo     10.175.73.117    281
+  255.255.255.255  255.255.255.255      En v¡nculo      172.31.144.1    271
+===========================================================================
+Rutas persistentes:
+  Ninguno
+
+IPv6 Tabla de enrutamiento
+===========================================================================
+Rutas activas:
+ Cuando destino de red m‚trica      Puerta de enlace
+  5     41 ::/0                     fe80::5c95:3aff:fefa:e90d
+  1    331 ::1/128                  En v¡nculo
+  5     41 2800:430:b206:4465::/64  En v¡nculo
+  5    281 2800:430:b206:4465:7149:37a9:cea3:7f92/128
+                                    En v¡nculo
+  5    281 2800:430:b206:4465:a14f:101e:a883:56a0/128
+                                    En v¡nculo
+ 22    281 fe80::/64                En v¡nculo
+  3    306 fe80::/64                En v¡nculo
+  5    281 fe80::/64                En v¡nculo
+ 58    271 fe80::/64                En v¡nculo
+ 22    281 fe80::1efc:74d8:5bb8:7247/128
+                                    En v¡nculo
+ 58    271 fe80::4e00:c2ff:17e2:6a55/128
+                                    En v¡nculo
+  5    281 fe80::9180:4ef1:348a:2141/128
+                                    En v¡nculo
+  3    306 fe80::9763:2ed2:f22:3a9d/128
+                                    En v¡nculo
+  1    331 ff00::/8                 En v¡nculo
+ 22    281 ff00::/8                 En v¡nculo
+  3    306 ff00::/8                 En v¡nculo
+  5    281 ff00::/8                 En v¡nculo
+ 58    271 ff00::/8                 En v¡nculo
+===========================================================================
+Rutas persistentes:
+  Ninguno
+ 
+============================================================ 
+[10] ESTADO DEL FIREWALL DE WINDOWS                         
+============================================================ 
+
+Configuraci¢n de Perfil de dominio: 
+----------------------------------------------------------------------
+Estado                                ACTIVAR
+Directiva de firewall                 BlockInbound,AllowOutbound
+LocalFirewallRules                    N/A (solo almac‚n de GPO)
+LocalConSecRules                      N/A (solo almac‚n de GPO)
+InboundUserNotification               Habilitar
+RemoteManagement                      Deshabilitar
+UnicastResponseToMulticast            Habilitar
+
+Registro:
+LogAllowedConnections                 Deshabilitar
+LogDroppedConnections                 Deshabilitar
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+
+Configuraci¢n de Perfil privado: 
+----------------------------------------------------------------------
+Estado                                ACTIVAR
+Directiva de firewall                 BlockInbound,AllowOutbound
+LocalFirewallRules                    N/A (solo almac‚n de GPO)
+LocalConSecRules                      N/A (solo almac‚n de GPO)
+InboundUserNotification               Habilitar
+RemoteManagement                      Deshabilitar
+UnicastResponseToMulticast            Habilitar
+
+Registro:
+LogAllowedConnections                 Deshabilitar
+LogDroppedConnections                 Deshabilitar
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+
+Configuraci¢n de Perfil p£blico: 
+----------------------------------------------------------------------
+Estado                                ACTIVAR
+Directiva de firewall                 BlockInbound,AllowOutbound
+LocalFirewallRules                    N/A (solo almac‚n de GPO)
+LocalConSecRules                      N/A (solo almac‚n de GPO)
+InboundUserNotification               Habilitar
+RemoteManagement                      Deshabilitar
+UnicastResponseToMulticast            Habilitar
+
+Registro:
+LogAllowedConnections                 Deshabilitar
+LogDroppedConnections                 Deshabilitar
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+Aceptar
+
+ 
+============================================================ 
+FIN DE LA AUDITORIA                                        
+============================================================ 
